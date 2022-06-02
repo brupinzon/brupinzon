@@ -4,7 +4,7 @@
 - 🌱 Estudando Salesforce e suas tecnologias
 - 😄 Pronouns: ela/dela
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/brupinzon">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brupinzon&show_icons=true&theme=moltack&include_all_commits=true&count_private=true">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brupinzon&layout=compact&langs_count=7&theme=moltack">
