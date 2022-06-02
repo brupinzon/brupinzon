@@ -1,4 +1,5 @@
-## Olá, Ohana! Eu sou a Bruna Pinzon
+## Olá, Ohana! Eu sou a Bruna Pinzon <img src="https://ijf.org.br/wp-content/uploads/2020/07/click.gif" width="5px"> 
+
 <div align="center">
   <a href="https://github.com/brupinzon">
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=brupinzon&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/> 
