@@ -1,5 +1,7 @@
 ## Olá, Ohana! Eu sou a Bruna Pinzon <img src="https://ijf.org.br/wp-content/uploads/2020/07/click.gif" width="5%"> 
 
+- 🌱Estudando Salesforce e suas tecnologias!
+
 <div align="center">
   <a href="https://github.com/brupinzon">
   <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=brupinzon&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/> 
@@ -16,7 +18,7 @@ src="https://play-lh.googleusercontent.com/bJ4yfe91bjz9fxR0XFUwEzyfz6XCgVshJgpff
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Bru-CSS" height="30" width="40"
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="right" alt="Bru-gif" height="150" style="border-radius:50px;"  
+  <img align="right" alt="Bru-gif" height="160" style="border-radius:50px;"  
 src="https://i.giphy.com/media/qIQ7yNBmrqEgiLjBTX/giphy.webp"/>
 </div>
   
