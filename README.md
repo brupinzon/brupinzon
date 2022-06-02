@@ -1,8 +1,8 @@
 ## Olá, Ohana! Eu sou a Bruna Pinzon
 <div align="center">
- <a href="https://github.com/brupinzon">
- <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=brupinzon&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/> 
- <img width="47%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brupinzon&layout=compact&langs_count=7&theme=bear"/>
+  <a href="https://github.com/brupinzon">
+  <img width="49%" height="180px" src="https://github-readme-stats.vercel.app/api?username=brupinzon&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/> 
+  <img width="47%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brupinzon&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -11,10 +11,12 @@ src="https://logodownload.org/wp-content/uploads/2020/04/salesforce-logo.png"/>
       <img align="center" alt="Bru-Trailhead" height="50" width="50" 
 src="https://play-lh.googleusercontent.com/bJ4yfe91bjz9fxR0XFUwEzyfz6XCgVshJgpffdTWa7PObd2W5Mwf89hlrVki4rqLxpY"/>
   <img align="center" alt="Bru-Js" height="30" width="40"                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
-  <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
-  <img align="center" alt="Bru-Canva" height="30" width="40"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+  <img align="center" alt="Bru-HTML" height="30" width="40" 
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Bru-CSS" height="30" width="40"
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
+  <img align="right" alt="Bru-gif" height="150" style="border-radius:50px;"  
+src="https://i.giphy.com/media/qIQ7yNBmrqEgiLjBTX/giphy.webp"/>
 </div>
   
 ##
