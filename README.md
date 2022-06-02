@@ -1,8 +1,8 @@
 ## Olá, Ohana! Eu sou a Bruna Pinzon
 <div align="center">
  <a href="https://github.com/brupinzon">
- <img width="48%" height="182px" src="https://github-readme-stats.vercel.app/api?username=brupinzon&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/> 
- <img width="48%" height="179px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brupinzon&layout=compact&langs_count=7&theme=bear"/>
+ <img width="49%" height="182px" src="https://github-readme-stats.vercel.app/api?username=brupinzon&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/> 
+ <img width="47%" height="179px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brupinzon&layout=compact&langs_count=7&theme=bear"/>
 </div>
 
 <div style="display: inline_block"><br>
