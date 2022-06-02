@@ -1,4 +1,4 @@
-## Olá, Ohana! Eu sou a Bruna Pinzon <img src="https://ijf.org.br/wp-content/uploads/2020/07/click.gif" width="5%"> 
+## Olá, Ohana! Eu sou a Bruna Pinzon <img src="https://ijf.org.br/wp-content/uploads/2020/07/click.gif" width="4%"> 
 
 - 🌱Estudando Salesforce e suas tecnologias!
 
