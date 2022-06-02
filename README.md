@@ -8,7 +8,7 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="Bru-Salesforce" height="30" width="45" 
 src="https://logodownload.org/wp-content/uploads/2020/04/salesforce-logo.png"/>
-      <img align="center" alt="Bru-Trailhead" height="45" width="50" 
+      <img align="center" alt="Bru-Trailhead" height="50" width="50" 
 src="https://play-lh.googleusercontent.com/bJ4yfe91bjz9fxR0XFUwEzyfz6XCgVshJgpffdTWa7PObd2W5Mwf89hlrVki4rqLxpY"/>
   <img align="center" alt="Bru-Js" height="30" width="40"                                                         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img align="center" alt="Bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
